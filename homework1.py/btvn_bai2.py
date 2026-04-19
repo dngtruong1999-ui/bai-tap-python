@@ -1,3 +1,4 @@
+#Bài 2
 price = 500000
 discount_percent =10
 

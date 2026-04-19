@@ -1,3 +1,4 @@
+#Bài 18
 distance = 12
 
 #1km đầu tiên 15000

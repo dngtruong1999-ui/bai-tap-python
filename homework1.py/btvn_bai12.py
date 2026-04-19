@@ -1,3 +1,4 @@
+#Bài 12
 performance_score = 4
 
 if performance_score >= 9:

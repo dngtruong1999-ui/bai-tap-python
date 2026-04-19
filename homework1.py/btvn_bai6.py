@@ -1,3 +1,4 @@
+#Bài 6
 balance = 200000
 item_price = 150000
 

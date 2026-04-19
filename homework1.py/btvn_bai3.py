@@ -1,3 +1,4 @@
+#Bài 3
 salary_per_day = 300000
 working_days = 22
 

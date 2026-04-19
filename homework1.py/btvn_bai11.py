@@ -1,3 +1,4 @@
+#Bài 11
 order_value = 180000
 shipping_fee = 30000
 total = order_value

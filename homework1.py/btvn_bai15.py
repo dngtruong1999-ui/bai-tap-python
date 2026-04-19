@@ -1,3 +1,4 @@
+#Bài 15
 total_spent = 1200000
 
 if total_spent >= 1000000:

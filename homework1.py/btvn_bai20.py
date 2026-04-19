@@ -1,3 +1,4 @@
+#Bài 20
 price = 1000000
 is_member = True
 voucher = 100000

@@ -1,3 +1,4 @@
+#Bài 1
 price = 120000
 quantity = 3
 

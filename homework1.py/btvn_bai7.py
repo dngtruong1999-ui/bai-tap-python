@@ -1,3 +1,4 @@
+#Bài 7
 order_value = 250000
 
 if order_value >= 200000:

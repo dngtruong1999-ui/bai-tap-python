@@ -1,3 +1,4 @@
+#Bài 17
 base_salary = 10000000
 kpi = 0.85
 

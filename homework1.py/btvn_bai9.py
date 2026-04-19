@@ -1,3 +1,4 @@
+#Bài 9
 hour = 14
 
 if hour >= 9 and hour <= 18:

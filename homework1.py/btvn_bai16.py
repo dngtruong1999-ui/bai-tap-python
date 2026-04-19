@@ -1,3 +1,4 @@
+#Bài 16
 kwh = 300
 tong_tien = 0
 
